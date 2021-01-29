@@ -1,0 +1,23 @@
+mkdir	-> create a directory
+cd	-> Change directory
+cat	-> display the contents of a file
+ls	-> list out the files in our directory
+touch	-> create an empty file
+echo	-> 
+nano	-> to enter contents into a file
+pwd	-> gives present working directory
+git --version  -> gives the version of git bash 
+git init	-> turn an existing directory into a git repository
+git add .	-> to place files in staging area
+git status	-> to check the status of files
+git log	-> to display the details of file like author, filename, SHA key
+git log --oneline	-> 
+git commit -m "msg"
+git commit --amend -m "msg"
+git checkout
+git checkout SHA_key
+git checkout HEAD^n
+git config --global user.name "name"
+git config --global user.name
+git config --global user.email "email"
+git config --global user.email
